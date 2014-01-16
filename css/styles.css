@@ -1,1 +1,8 @@
 /* Votre Style */
+
+#navigation {
+		display:block;
+		/*border : 1px solid;*/
+		box-shadow: 3px 3px 9px #000000;
+		margin : 5px 0;
+}
