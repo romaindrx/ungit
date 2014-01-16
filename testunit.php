@@ -3,7 +3,7 @@
 <?php
 /*
 *	Author : Romain
-*
+*	date : 2014-01-16
 *
 */
 // Ajout d'un nombre aléatoire..entre 3 et 9
