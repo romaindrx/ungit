@@ -4,6 +4,8 @@ $title = "Le tire de ma page est Bonjour";
 
 $today = date("Y/M/d");
 
+$hour = date('h:i:s A');
+
 ?>
 
 <!doctype html>
@@ -26,7 +28,8 @@ $today = date("Y/M/d");
 	
 	<header id="header" role="banner" class="line pam">
 <h2>Today : <?php echo $today;  ?></h2>
-		Lorem Elsass ipsum lacus leverwurscht Wurschtsalad mamsell Gal. gewurztraminer turpis, suspendisse commodo Oberschaeffolsheim ornare aliquam semper Miss Dahlias Mauris turpis sagittis kuglopf eleifend dignissim baeckeoffe geht's Richard Schirmeck mollis habitant schnaps ante et sit leo schpeck sit Salu bissame Salut bisamme varius quam. amet elementum nullam bissame bredele Heineken picon bière gal sed risus, condimentum Verdammi ch'ai ac réchime météor barapli s'guelt quam, non Christkindelsmärik blottkopf, Carola tellus rucksack vielmols, Gal !
+<p> Il est : <?php echo $hour; ?></p>	
+	Lorem Elsass ipsum lacus leverwurscht Wurschtsalad mamsell Gal. gewurztraminer turpis, suspendisse commodo Oberschaeffolsheim ornare aliquam semper Miss Dahlias Mauris turpis sagittis kuglopf eleifend dignissim baeckeoffe geht's Richard Schirmeck mollis habitant schnaps ante et sit leo schpeck sit Salu bissame Salut bisamme varius quam. amet elementum nullam bissame bredele Heineken picon bière gal sed risus, condimentum Verdammi ch'ai ac réchime météor barapli s'guelt quam, non Christkindelsmärik blottkopf, Carola tellus rucksack vielmols, Gal !
 		<nav id="navigation" role="navigation">
 			<ul class="pam">
 				<li class="pam inbl">Picon bière</li>
