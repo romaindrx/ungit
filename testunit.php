@@ -1,7 +1,11 @@
 
 
 <?php
-
+/*
+*	Author : Romain
+*
+*
+*/
 // Ajout d'un nombre aléatoire..entre 3 et 9
 $roue = rand(3,9);
 
