@@ -5,7 +5,7 @@
 *	Author : Romain
 *	date : 2014-01-16
 *
-*  Rmonte a un moment tout ceci !
+*  Remonte a un moment tout ceci !
 *
 */
 // Ajout d'un nombre aléatoire..entre 3 et 9
